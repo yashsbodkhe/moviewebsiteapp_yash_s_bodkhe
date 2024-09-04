@@ -39,7 +39,7 @@ Run the Application:
 bash
 Copy code
 npm start
-The app will be available at http://localhost:3000.
+ 
 
 Usage
 Search Movies: Use the search bar to find movies by title. The app will display a list of matching results with brief information.
